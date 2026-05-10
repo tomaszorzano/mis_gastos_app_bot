@@ -1,0 +1,6 @@
+python-telegram-bot[job-queue]>=21.0,<22.0
+google-genai>=1.0.0
+python-dotenv>=1.0.0
+cryptography>=42.0.0
+# Si querés usar Anthropic en vez de Gemini, descomentá:
+# anthropic>=0.40.0
